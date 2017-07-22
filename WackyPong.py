@@ -1,6 +1,3 @@
-# To install the pygame module, enter the following command into a Unix terminal:
-# sudo apt-get install python-pygame
-
 import pygame, sys, random
 from pygame.locals import *
 
